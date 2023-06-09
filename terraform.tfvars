@@ -1,5 +1,5 @@
-name = "azure-stack"
-location = "Central India"
+name = "multi-tier-app"
+location = "EAST US "
 vnetcidr = "192.168.0.0/16"
 websubnetcidr = "192.168.1.0/24"
 appsubnetcidr = "192.168.2.0/24"
